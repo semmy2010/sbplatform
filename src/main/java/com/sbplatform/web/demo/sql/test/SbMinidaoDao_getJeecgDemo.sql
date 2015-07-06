@@ -1,0 +1,1 @@
+SELECT * FROM sb_minidao WHERE id=:id
